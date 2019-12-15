@@ -20,6 +20,7 @@
     "vuex": "^3.0.1"
   },
   "devDependencies": {
+    "@maboroshi/prettier-config": "^1.0.0",
     "@types/jest": "^23.1.4",
     "@vue/cli-plugin-babel": "^3.0.4",
     "@vue/cli-plugin-eslint": "^3.0.4",
