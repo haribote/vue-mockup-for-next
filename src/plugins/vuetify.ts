@@ -8,5 +8,10 @@ export default new Vuetify({
   lang: {
     locales: { ja },
     current: 'ja'
+  },
+  theme: {
+    options: {
+      customProperties: true
+    }
   }
 })
